@@ -1,0 +1,149 @@
+/* Global Styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+/* Header Styles */
+header {
+  background-color: #FF4500;
+  color: #fff;
+  text-align: center;
+  padding: 40px 0;
+}
+
+header h1 {
+  font-size: 4rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+header p {
+  font-size: 1.4rem;
+  margin-top: 20px;
+  color: #f0f0f0;
+}
+
+/* Button Styles */
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #FF6600; /* Updated color */
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 30px;
+  margin-top: 30px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #FF4500; /* Revert to original color on hover */
+}
+
+/* About Section Styles */
+#about {
+  background-color: #f9f9f9;
+  padding: 80px 0;
+}
+
+#about h2 {
+  text-align: center;
+  color: #FF4500;
+}
+
+/* Schedule Section Styles */
+#schedule {
+  background-color: #f0f0f0;
+  padding: 80px 0;
+}
+
+#schedule h2 {
+  text-align: center;
+  color: #FF4500;
+}
+
+.schedule-item {
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Register Section Styles */
+#register {
+  padding: 80px 0;
+}
+
+#register h2 {
+  text-align: center;
+  color: #FF4500;
+}
+
+#register form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#register input {
+  padding: 12px;
+  margin: 12px;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 30px;
+}
+
+#register button {
+  background-color: #FF4500;
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  padding: 12px 24px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#register button:hover {
+  background-color: #FF6600;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 30px 0;
+}
+
+footer p {
+  font-size: 1.2rem;
+  opacity: 0.8;
+}
+
+/* Social Event Styles */
+.Social-event {
+  background-color: #FF6600;
+  color: #fff;
+  text-align: center;
+  padding: 30px 0;
+  border-radius: 10px;
+  margin: 30px auto;
+}
+
+.Social-event h3 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.Social-event p {
+  font-size: 1.2rem;
+}
