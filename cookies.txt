@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Aug-2023
-.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	14-Aug-2023
-.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	IN:MH::18.97:72.82:v4
-www.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
-
